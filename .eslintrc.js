@@ -9,7 +9,6 @@ module.exports = {
     'jest': true,
   },
   'rules': {
-    "space-before-function-paren": ["error", "always"],
     'no-use-before-define': 'off',
     'react/prop-types': 'off',
     'comma-dangle': 'off',
